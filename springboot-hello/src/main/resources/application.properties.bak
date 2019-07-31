@@ -1,0 +1,10 @@
+spring.jackson.date-format=yyyy-MM-dd HH-mm-ss
+
+spring.jackson.time-zone=GMT+8
+
+spring.mvc.date-format=yyyy-MM-dd
+
+images.serverpath = http://images.hgz.com
+
+resource.imageServer = http://images.hgz.com
+resource.emailServer = http://email.hgz.com

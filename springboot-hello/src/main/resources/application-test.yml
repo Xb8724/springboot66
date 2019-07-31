@@ -1,0 +1,6 @@
+images:
+  serverpath: http://test.images.com
+
+resource:
+  imageServer: http://test.images.com
+  emailServer: http://test.email.com
