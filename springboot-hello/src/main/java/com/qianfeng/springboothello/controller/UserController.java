@@ -15,6 +15,8 @@ public class UserController {
     @Value("${images.serverpath}")
     private String imageService;
 
+    public void test(){}
+
     @GetMapping("properties")
     public String properties(){
         return "properties:"+imageService;
